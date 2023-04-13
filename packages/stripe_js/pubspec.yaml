@@ -1,7 +1,7 @@
 name: stripe_js
 description: Stripe.js bindings for dart. This package is used by Stripe web so that the Stripe js sdk can be invoked directly.
 version: 2.0.1
-homepage: https://github.com/flutter-stripe/flutter_stripe
+homepage: https://github.com/StoneNan/flutter_stripe
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
