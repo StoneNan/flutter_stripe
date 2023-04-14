@@ -2,3 +2,7 @@
 dependency_overrides:
   stripe_ios:
     path: ../stripe_ios
+  stripe_ios:
+    path: ../stripe_android
+  stripe_ios:
+    path: ../stripe_platform_interface
