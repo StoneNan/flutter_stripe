@@ -24,12 +24,12 @@ dependencies:
     git:
       ref: 1.999.1
       url: https://github.com/StoneNan/flutter_stripe.git
-      path: .packages/stripe_android
+      path: packages/stripe_android
   stripe_platform_interface: 
     git:
       ref: 9.0.1
       url: https://github.com/StoneNan/flutter_stripe.git
-      path: .packages/stripe_platform_interface
+      path: packages/stripe_platform_interface
 
 dev_dependencies:
   flutter_test:
