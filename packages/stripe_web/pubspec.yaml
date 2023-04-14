@@ -1,7 +1,7 @@
 name: flutter_stripe_web
 description: Stripe sdk bindings for the Flutter web platform. This package contains the implementation of the platform interface for web.
 version: 3.0.0
-homepage: https://github.com/StoneNan/flutter_stripe
+homepage: https://github.com/flutter-stripe/flutter_stripe
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
